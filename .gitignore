@@ -1,0 +1,9 @@
+.DS_Store
+*.class
+# for pycharm
+*.pyc
+__pycache__
+venv/
+pylucene-4.10.1-1/
+.idea/
+migrations/
